@@ -42,16 +42,31 @@ The project was carried out as part of academic coursework, but structured as a 
 #### 1. Exploratory analysis
 Visual inspection of trends, volatility, and seasonal effects.
 
-<img width="830" height="516" alt="image" src="https://github.com/user-attachments/assets/f31fb9d6-2d30-49c8-b427-2e470fc9cbf0" />
+<img width="1184" height="751" alt="image" src="https://github.com/user-attachments/assets/de1ec0b3-6255-40cd-bdb2-e757efe126c9" />
+
 
 #### 2. Stationarity assessment
 Statistical testing and differencing to meet model assumptions.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/57fc9464-02e4-409d-adf5-07c08ac2c8b0" width="45%" />
+  <img src="https://github.com/user-attachments/assets/8597ce5c-7751-4ef3-a87d-badfcb27cabc" width="45%" />
+</p>
+
+
+
+
 
 #### 3.Model construction
 Building and comparing autoregressive models with different parameters.
 
 #### 4.Evaluation & forecasting
 Assessing model fit and generating forecasts with uncertainty bounds.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f944f18f-56b2-4263-9060-3cc21467bfe4" width="45%" />
+  <img src="https://github.com/user-attachments/assets/607921e0-4ce5-4f98-b36f-dbced227dd98" width="45%" />
+</p>
+
 
 ## 6. Results & Insights
 - Strong seasonal patterns and long-term trends were identified in the analyzed series.
