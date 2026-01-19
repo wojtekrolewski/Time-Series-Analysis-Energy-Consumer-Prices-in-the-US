@@ -73,3 +73,5 @@ Assessing model fit and generating forecasts with uncertainty bounds.
 - Proper differencing significantly improved model stability.
 - Classical autoregressive models can capture short-term dynamics, but their predictive power decreases with longer horizons.
 - The project highlights the trade-off between model simplicity and forecasting accuracy in real economic data.
+
+Report in details included in Time_series.pdf.
